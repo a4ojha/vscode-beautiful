@@ -31,7 +31,15 @@
         "*.csv": "default"
     },
     "gitlens.currentLine.enabled": false,
-    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "terminal.integrated.profiles.windows": {
+        "custom-bash": {
+            "path": "C:\\PROGRA~1\\Git\\bin\\bash.exe",
+            "args": [
+                "--cd=${workspaceFolder}"
+            ]
+        }
+    },
+    "terminal.integrated.defaultProfile.windows": "custom-bash",
     "git.enableSmartCommit": true,
     "workbench.statusBar.visible": false,
     "workbench.activityBar.location": "hidden",

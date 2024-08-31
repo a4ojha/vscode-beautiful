@@ -18,7 +18,6 @@
     There's no replacing VS Code, but it can always look better...
     <br />
     <br />
-    <br />
   </p>
 </div>
 
@@ -31,8 +30,8 @@
 
 Inspired by [Glen Raya](https://github.com/glennraya/vscode-settings-json), I customized my VS Code setup to be more minimalistic and reliant on keyboard shortcuts. 
 
-So basically neovim but with VS Code extensions.
-
+So basically neovim but with VS Code extensions.  
+<br />
 
 <!-- GETTING STARTED -->
 ## Getting Started

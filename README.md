@@ -33,8 +33,6 @@ Inspired by [Glen Raya](https://github.com/glennraya/vscode-settings-json), I cu
 
 So basically neovim but with VS Code extensions.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- GETTING STARTED -->
 ## Getting Started

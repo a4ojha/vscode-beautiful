@@ -15,7 +15,7 @@
 <h3 align="center">Minimal VS Code</h3>
 
   <p align="center">
-    There's no replacing VS Code, but it can always look better...
+    There's no replacing VS Code, but it can always look better
     <br />
     <br />
   </p>
